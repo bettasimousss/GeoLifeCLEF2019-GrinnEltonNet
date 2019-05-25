@@ -1,0 +1,82 @@
+\begin{thebibliography}{10}
+
+\bibitem{botella2018deep}
+{\sc Botella, C., Joly, A., Bonnet, P., Monestiez, P., and Munoz, F.}
+\newblock A deep learning approach to species distribution modelling.
+\newblock In {\em Multimedia Tools and Applications for Environmental \&
+  Biodiversity Informatics}. Springer, 2018, pp.~169--199.
+
+\bibitem{boulangeat2012accounting}
+{\sc Boulangeat, I., Gravel, D., and Thuiller, W.}
+\newblock Accounting for dispersal and biotic interactions to disentangle the
+  drivers of species distributions and their abundances.
+\newblock {\em Ecology letters 15}, 6 (2012), 584--593.
+
+\bibitem{deneu2018location}
+{\sc Deneu, B., Servajean, M., Botella, C., and Joly, A.}
+\newblock Location-based species recommendation using co-occurrences and
+  environment-geolifeclef 2018 challenge.
+\newblock In {\em CLEF 2018\/} (2018).
+
+\bibitem{elton2001animal}
+{\sc Elton, C.~S.}
+\newblock {\em Animal ecology}.
+\newblock University of Chicago Press, 2001.
+
+\bibitem{grinnell1917niche}
+{\sc Grinnell, J.}
+\newblock The niche-relationships of the california thrasher.
+\newblock {\em Auk 34}, 4 (1917), 427--433.
+
+\bibitem{holt1985population}
+{\sc Holt, R.~D.}
+\newblock Population dynamics in two-patch environments: some anomalous
+  consequences of an optimal habitat distribution.
+\newblock {\em Theoretical population biology 28}, 2 (1985), 181--208.
+
+\bibitem{kingma2014adam}
+{\sc Kingma, D.~P., and Ba, J.}
+\newblock Adam: A method for stochastic optimization.
+\newblock {\em arXiv preprint arXiv:1412.6980\/} (2014).
+
+\bibitem{lecun1995convolutional}
+{\sc LeCun, Y., Bengio, Y., et~al.}
+\newblock Convolutional networks for images, speech, and time series.
+\newblock {\em The handbook of brain theory and neural networks 3361}, 10
+  (1995), 1995.
+
+\bibitem{maas2013rectifier}
+{\sc Maas, A.~L., Hannun, A.~Y., and Ng, A.~Y.}
+\newblock Rectifier nonlinearities improve neural network acoustic models.
+\newblock In {\em Proc. icml\/} (2013), vol.~30, p.~3.
+
+\bibitem{mikolov2013efficient}
+{\sc Mikolov, T., Chen, K., Corrado, G., and Dean, J.}
+\newblock Efficient estimation of word representations in vector space.
+\newblock {\em arXiv preprint arXiv:1301.3781\/} (2013).
+
+\bibitem{nguyen2016funguild}
+{\sc Nguyen, N.~H., Song, Z., Bates, S.~T., Branco, S., Tedersoo, L., Menke,
+  J., Schilling, J.~S., and Kennedy, P.~G.}
+\newblock Funguild: an open annotation tool for parsing fungal community
+  datasets by ecological guild.
+\newblock {\em Fungal Ecology 20\/} (2016), 241--248.
+
+\bibitem{peterson2011ecological}
+{\sc Peterson, A.~T., Sober{\'{o}}n, J., Pearson, R.~G., Anderson, R.~P.,
+  Martinez-Meyer, E., Nakamura, M., and Ara{\'{u}}jo, M.~B.}
+\newblock {\em {Ecological niches and geographic distributions (MPB-49)}},
+  vol.~56.
+\newblock Princeton University Press, 2011.
+
+\bibitem{sauvion2013interactions}
+{\sc Sauvion, N., Calatayud, P.-A., Thi{\'e}ry, D., and Marion-Poll, F.}
+\newblock {\em Interactions insectes-plantes}.
+\newblock Editions Quae, 2013.
+
+\bibitem{simonyan2014very}
+{\sc Simonyan, K., and Zisserman, A.}
+\newblock Very deep convolutional networks for large-scale image recognition.
+\newblock {\em arXiv preprint arXiv:1409.1556\/} (2014).
+
+\end{thebibliography}
